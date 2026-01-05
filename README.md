@@ -51,9 +51,6 @@ measurements and galaxy kinematics.
 
 #### Key Result
 - Estimated dynamical mass:  
-  \[
-  M_{dyn} \sim 10^{14} \, M_\odot
-  \]
 - Confirms strong **dark matter domination**
 
 ---
